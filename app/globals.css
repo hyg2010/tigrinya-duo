@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Font helper (use normal hyphens, not em-dashes) */
+:root {
+  --ethiopic: "Noto Sans Ethiopic", system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+}
+
+.ethiopic { font-family: var(--ethiopic); }
+
+/* optional tiny reset */
+html, body { height: 100%; }
