@@ -27,6 +27,6 @@ Each level contains:
 ## Notes
 - Lock next level until previous level completed.  
 - Progress bar highlights green as lessons complete.  
-- Future: Add audio field for pronunciation + user progress tracking (Supabase).  
+- Future: Add audio field for pronunciation + user progress tracking (Supabase). 
 
 
